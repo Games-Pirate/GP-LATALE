@@ -16,3 +16,19 @@ Hero 4th Job Skills now share same cooldown
 Dragoon: "Fast Move" AP consumption lowered from 20 to 10. 
 Saint: Energy Boom now has 100% critical chance, Stunning Power has guard break added
 
+9/16/2022
+
+Sefirot:
+Sliding Kick III changed - now launches you into the air, able to use three times, animation swapped out for Soul Splitter animation
+Skill delays reduced by .3 milliseconds across the board
+Aero boom - damage lowered - now hits 14 times
+Dragon Wave- hits twice instead of once
+Energy Boom III - hits three times instead of once
+
+Minstrel:
+Performance of rest - has invinci on startup, sleep is now on .4 instead of .6
+Hell of note - now has an additional bleed effect
+Devillish Ballad- no longer fears, instead now holds (bug fix)
+Evil Performance - now slows 50% on hit
+Guitar Group Heal [Upgrade] - Heals more, Increases damage mitigation by 1%, 10% dual max damage on EACH USE, permanent buff 
+for entire match 
